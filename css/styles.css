@@ -334,7 +334,7 @@ button {
   text-transform: capitalize;
   color: #2e2f42;
   padding-top: 0px;
-  padding-bottom: 72px;
+  margin-bottom: 72px;
   padding-left: 0px;
   padding-right: 0px;
 }
