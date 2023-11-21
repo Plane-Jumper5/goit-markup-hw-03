@@ -508,7 +508,7 @@ button {
 }
 .menu {
   display: flex;
-  column-gap: 24px;
+  row-gap: 48px;
 }
 .menu-wrap {
   display: flex;
