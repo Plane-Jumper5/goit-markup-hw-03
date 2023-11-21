@@ -240,10 +240,7 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  padding-top: 8px;
-  margin-bottom: 120px;
-  margin-left: 0px;
-  margin-right: 0px;
+  margin-bottom: 8px;
 }
 .section-team {
   font-family: "Roboto", sans-serif;
