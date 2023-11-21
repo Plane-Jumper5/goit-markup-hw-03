@@ -517,7 +517,9 @@ button {
 }
 
 /*===team section===*/
-
+.team-section {
+  padding: 120px 0;
+}
 /*===portfolio section===*/
 .portfolio-section {
   padding: 120px 0 120px 0;
