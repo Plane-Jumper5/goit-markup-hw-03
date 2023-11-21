@@ -175,6 +175,7 @@ button {
 .hero-section {
   background-color: #2e2f42;
   height: 600px;
+  padding: 188px 0;
 }
 
 .section-top {
@@ -189,7 +190,6 @@ button {
   max-width: 496px;
   margin-right: auto;
   margin-left: auto;
-  padding: 188px 0;
 }
 
 .hero-button {
