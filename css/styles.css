@@ -522,6 +522,5 @@ button {
 
 .general-footer-container {
   height: 312px;
-  padding-top: 101.5px;
-  margin-top: 120px;
+  padding: 100px 0;
 }
