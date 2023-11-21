@@ -504,7 +504,7 @@ button {
   padding-bottom: 120px;
 }
 .info-section {
-  padding-top: 120px;
+  padding: 120px 0;
 }
 .menu {
   display: flex;
