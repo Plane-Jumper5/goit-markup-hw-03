@@ -226,6 +226,10 @@ button {
 
 .menu-item-team {
   background-color: #ffffff;
+  margin-right: 24px;
+}
+.endli {
+  margin-right: 0;
 }
 .section-item {
   font-family: "Roboto", sans-serif;
