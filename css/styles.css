@@ -519,7 +519,9 @@ button {
 /*===team section===*/
 
 /*===portfolio section===*/
-
+.portfolio-section {
+  padding: 120px 0 120px 0;
+}
 /*==footer section===*/
 
 .general-footer-container {
