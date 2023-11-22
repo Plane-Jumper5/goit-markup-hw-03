@@ -496,6 +496,7 @@ button {
   margin-right: auto;
   padding-left: 15px;
   padding-right: 15px;
+  border-top: none;
 }
 .general-head-container {
   justify-content: space-between;
@@ -507,9 +508,7 @@ button {
   padding-top: 120px;
   padding-bottom: 60px;
 }
-.general-portfolio-container {
-  border-top: none;
-}
+
 .page-head {
   padding-top: 24px;
   padding-bottom: 24px;
