@@ -361,7 +361,7 @@ button {
   padding-left: 0px;
   padding-right: 0px;
 }
-.banking-app {
+.banking-apps {
   padding-top: 32px;
   padding-bottom: 4px;
   padding-left: 16px;
@@ -427,10 +427,6 @@ button {
 }
 .services-list {
   margin-bottom: 8px;
-  padding-top: 32px;
-  padding-bottom: 4px;
-  padding-left: 16px;
-  padding-right: 226px;
 }
 
 .marketing-payment {
