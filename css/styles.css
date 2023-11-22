@@ -421,6 +421,7 @@ button {
   padding-right: 314px;
 }
 .our-banking {
+  border-top: none;
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
 }
