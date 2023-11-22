@@ -367,10 +367,7 @@ button {
   padding-left: 16px;
   padding-right: 226px;
 }
-.our-banking {
-  padding: 32px 16px;
-  border: 1px solid #e7e9fc;
-}
+
 .cashless-payment {
   padding-top: 32px;
   padding-bottom: 4px;
@@ -558,4 +555,7 @@ button {
 }
 .end {
   padding: 100px 0;
+}
+.menu-item-portfolio {
+  width: calc((100% - 48px) / 3);
 }
