@@ -280,6 +280,8 @@ button {
 }
 .person-mark {
   padding: 32px 0;
+  text-align: center;
+  margin-bottom: 8px;
 }
 .tom-ford {
   padding-top: 32px;
