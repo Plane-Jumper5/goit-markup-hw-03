@@ -420,7 +420,7 @@ button {
   padding-left: 16px;
   padding-right: 314px;
 }
-.our-banking {
+.our-portfolio-list-container {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
@@ -435,11 +435,7 @@ button {
   padding-left: 16px;
   padding-right: 269px;
 }
-.our-payment {
-  padding: 32px 16px;
-  border: 1px solid #e7e9fc;
-  border-top: none;
-}
+
 .meditation {
   padding-top: 4px;
   padding-bottom: 32px;
