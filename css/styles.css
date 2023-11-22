@@ -317,24 +317,7 @@ button {
   padding-left: 68px;
   padding-right: 68px;
 }
-.ford {
-  padding-top: 4px;
-  padding-left: 60px;
-  padding-right: 60px;
-  padding-bottom: 32px;
-}
-.garcia {
-  padding-top: 4px;
-  padding-bottom: 32px;
-  padding-left: 94.5px;
-  padding-right: 94.5px;
-}
-.wilson {
-  padding-top: 4px;
-  padding-bottom: 32px;
-  padding-left: 89.5px;
-  padding-right: 89.5px;
-}
+
 .section-portfolio {
   font-family: "Roboto", sans-serif;
   font-size: 36px;
