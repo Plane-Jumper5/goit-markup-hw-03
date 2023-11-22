@@ -420,6 +420,11 @@ button {
   padding-left: 16px;
   padding-right: 314px;
 }
+
+.section-services {
+  margin-bottom: 8px;
+}
+
 .marketing-payment {
   padding-top: 4px;
   padding-bottom: 32px;
