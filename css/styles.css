@@ -126,6 +126,7 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
   width: calc((100% - 3 * 24px) / 4);
+  margin-right: 0;
 }
 
 .menu-item:hover,
