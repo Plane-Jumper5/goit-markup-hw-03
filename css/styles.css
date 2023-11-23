@@ -128,9 +128,7 @@ button {
   width: calc((100% - 3 * 24px) / 4);
   gap: 40px;
 }
-.menu-item-contacts {
-  margin-right: 0;
-}
+
 .menu-item:hover,
 .menu-item:focus {
   color: #404bbf;
