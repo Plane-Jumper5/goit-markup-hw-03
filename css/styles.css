@@ -473,7 +473,10 @@ button {
 }
 .contacts {
   display: flex;
-  column-gap: 40px;
+  gap: 40px;
+}
+.menu-item-number {
+  margin-right: 0;
 }
 /*===Hero section===*/
 
