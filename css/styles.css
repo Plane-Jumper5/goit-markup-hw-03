@@ -469,7 +469,7 @@ button {
 }
 .menu-navigation {
   display: flex;
-  column-gap: 40px;
+  gap: 40px;
 }
 .contacts {
   display: flex;
